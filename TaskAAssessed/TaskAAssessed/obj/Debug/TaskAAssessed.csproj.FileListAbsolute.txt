@@ -1,0 +1,14 @@
+C:\Users\Daniel\OneDrive - MMU\Documents\03 - A&DS\Week 2\Week 2 Assessment\TaskAAssessed\TaskAAssessed\bin\Debug\TaskAAssessed.exe.config
+C:\Users\Daniel\OneDrive - MMU\Documents\03 - A&DS\Week 2\Week 2 Assessment\TaskAAssessed\TaskAAssessed\bin\Debug\TaskAAssessed.exe
+C:\Users\Daniel\OneDrive - MMU\Documents\03 - A&DS\Week 2\Week 2 Assessment\TaskAAssessed\TaskAAssessed\bin\Debug\TaskAAssessed.pdb
+C:\Users\Daniel\OneDrive - MMU\Documents\03 - A&DS\Week 2\Week 2 Assessment\TaskAAssessed\TaskAAssessed\obj\Debug\TaskAAssessed.csproj.AssemblyReference.cache
+C:\Users\Daniel\OneDrive - MMU\Documents\03 - A&DS\Week 2\Week 2 Assessment\TaskAAssessed\TaskAAssessed\obj\Debug\TaskAAssessed.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\OneDrive - MMU\Documents\03 - A&DS\Week 2\Week 2 Assessment\TaskAAssessed\TaskAAssessed\obj\Debug\TaskAAssessed.exe
+C:\Users\Daniel\OneDrive - MMU\Documents\03 - A&DS\Week 2\Week 2 Assessment\TaskAAssessed\TaskAAssessed\obj\Debug\TaskAAssessed.pdb
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 2\Week 2 Assessment\TaskAAssessed\TaskAAssessed\bin\Debug\TaskAAssessed.exe.config
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 2\Week 2 Assessment\TaskAAssessed\TaskAAssessed\bin\Debug\TaskAAssessed.exe
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 2\Week 2 Assessment\TaskAAssessed\TaskAAssessed\bin\Debug\TaskAAssessed.pdb
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 2\Week 2 Assessment\TaskAAssessed\TaskAAssessed\obj\Debug\TaskAAssessed.csproj.AssemblyReference.cache
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 2\Week 2 Assessment\TaskAAssessed\TaskAAssessed\obj\Debug\TaskAAssessed.csproj.CoreCompileInputs.cache
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 2\Week 2 Assessment\TaskAAssessed\TaskAAssessed\obj\Debug\TaskAAssessed.exe
+C:\Users\Danny\OneDrive - MMU\Documents\03 - A&DS\Week 2\Week 2 Assessment\TaskAAssessed\TaskAAssessed\obj\Debug\TaskAAssessed.pdb
